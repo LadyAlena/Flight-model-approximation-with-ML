@@ -1,0 +1,1 @@
+https://practicum.yandex.ru/blog/neyroset-lstm-dlya-mashinnogo-obucheniya/
