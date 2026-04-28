@@ -7,7 +7,7 @@
 5. Выводы.
 
 ## Обзор литературы
-Предварительный список источников (в дальнейшем будет дополняться)
+Предварительный список источников (в дальнейшем будет дополняться по локальным тематикам)
 1. https://practicum.yandex.ru/blog/neyroset-lstm-dlya-mashinnogo-obucheniya/
 2. https://link.springer.com/article/10.1007/s10489-022-04098-8
 3. https://papers.phmsociety.org/index.php/phmconf/article/view/849
