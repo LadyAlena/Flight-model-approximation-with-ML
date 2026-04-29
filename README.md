@@ -14,8 +14,8 @@
 2. [Trajectory prediction of flying vehicles based on deep learning methods](https://github.com/LadyAlena/Flight-model-approximation-with-ML/tree/main/review/Trajectory-prediction-of-flying-vehicles-based-on-deep-learning-methods)
 3. [Aircraft Trajectory Prediction using LSTM Neural Network with Embedded Convolutional Layer](https://github.com/LadyAlena/Flight-model-approximation-with-ML/tree/main/review/Aircraft-Trajectory-Prediction-using-LSTM-Neural-Network-with-Embedded-Convolutional-Layer)
 4. [Обзор репозитория drone_mvmot_lstm_trajectory_predictor](https://github.com/LadyAlena/Flight-model-approximation-with-ML/tree/main/review/drone_mvmot_lstm_trajectory_predictor)
-5. https://arxiv.org/pdf/2203.09033
-6. https://arxiv.org/pdf/2309.06741
+5. [Phased Flight Trajectory Prediction with Deep Learning]()
+6. [A Multi-task Learning Framework for Drone State Identification and Trajectory Prediction]()
 
 ## Получение данных для аппроксимации движения ЛА
 
