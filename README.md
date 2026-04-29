@@ -12,7 +12,7 @@
 ѕредварительный список источников (в дальнейшем будет дополн€тьс€, уточн€тьс€ по локальным тематикам, т.е. дл€ каждой тематики свой список источников, например, список источников по индитификации динамики объекта частотными методам и т. д.):
 1. [¬сЄ о LSTM: зачем нужна нейронна€ сеть и как с ней работать](https://github.com/LadyAlena/Flight-model-approximation-with-ML/tree/main/review/All-about-LSTM-why-you-need-a-neural-network-and-how-to-work-with-it)
 2. [Trajectory prediction of flying vehicles based on deep learning methods](https://github.com/LadyAlena/Flight-model-approximation-with-ML/tree/main/review/Trajectory-prediction-of-flying-vehicles-based-on-deep-learning-methods)
-3. [Aircraft Trajectory Prediction using LSTM Neural Network with Embedded Convolutional Layer]()
+3. [Aircraft Trajectory Prediction using LSTM Neural Network with Embedded Convolutional Layer](https://github.com/LadyAlena/Flight-model-approximation-with-ML/tree/main/review/Aircraft-Trajectory-Prediction-using-LSTM-Neural-Network-with-Embedded-Convolutional-Layer)
 4. https://github.com/yanhanxu/drone_mvmot_lstm_trajectory_predictor
 5. https://arxiv.org/pdf/2203.09033
 6. https://arxiv.org/pdf/2309.06741
