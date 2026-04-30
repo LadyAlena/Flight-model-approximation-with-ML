@@ -17,6 +17,8 @@
 5. [Phased Flight Trajectory Prediction with Deep Learning](https://github.com/LadyAlena/Flight-model-approximation-with-ML/tree/main/review/Phased-Flight-Trajectory-Prediction-with-Deep-Learning)
 6. [A Multi-task Learning Framework for Drone State Identification and Trajectory Prediction](https://github.com/LadyAlena/Flight-model-approximation-with-ML/tree/main/review/A-Multi-task-Learning-Framework-for-Drone-State)
 
+Заметки: найти литературу, в которой представлены варианты формирования данных на основе летных экспериментов/моделирования движения ЛА для аппроксимации модели/обучения нейросети.
+
 ## Получение данных для аппроксимации движения ЛА
 
 ## Математическое описание различных моделей аппроксиматоров
