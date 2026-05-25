@@ -123,12 +123,15 @@ LSTM, RNN, аппроксимация, математическая модель
 <img width="1029" height="729" alt="image" src="https://github.com/user-attachments/assets/9f49e3aa-c046-43d4-b580-c973da593cd8" />
 Рис. 3 Предобработка данных на примере телеметрических данных угла тангажа
 
+<img width="1014" height="720" alt="image" src="https://github.com/user-attachments/assets/2dc9ccc7-845e-49df-813b-34fb13fc67b0" />
+Рис. 4 Предобработка данных на примере телеметрических данных угла крена
+
 ## Анализ результатов исследования
 <img width="1042" height="667" alt="image" src="https://github.com/user-attachments/assets/88576e13-610f-4085-b358-83ebf07a1344" />
-Рис. 4 Аппроксимация LSTM-сетью внутреннего конутра
+Рис. 5 Аппроксимация LSTM-сетью внутреннего конутра
 
 <img width="1240" height="379" alt="image" src="https://github.com/user-attachments/assets/40c045ba-b01c-4af1-96a5-43cee88a0905" />
-Рис. 5 Аппроксимация LSTM-сетью внешнего конутра
+Рис. 6 Аппроксимация LSTM-сетью внешнего конутра
 
 ## Выводы
 
