@@ -122,6 +122,11 @@ LSTM, RNN, аппроксимация, математическая модель
 ## Подготовка данных для аппроксимации движения ЛА
 
 ## Анализ результатов исследования
+<img width="1042" height="667" alt="image" src="https://github.com/user-attachments/assets/88576e13-610f-4085-b358-83ebf07a1344" />
+Рис. 2 Аппроксимация LSTM-сетью внутреннего конутра
+
+<img width="1240" height="379" alt="image" src="https://github.com/user-attachments/assets/40c045ba-b01c-4af1-96a5-43cee88a0905" />
+Рис. 3 Аппроксимация LSTM-сетью внешнего конутра
 
 ## Выводы
 
