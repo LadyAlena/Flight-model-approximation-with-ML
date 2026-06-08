@@ -289,7 +289,7 @@ $$
 <img width="1013" height="664" alt="image" src="https://github.com/user-attachments/assets/3d120e20-5048-4dab-9567-f05ab2182cb3" />
 Рис. 5 Аппроксимация LSTM-сетью внутреннего конутра
 
-<img width="1345" height="663" alt="image" src="https://github.com/user-attachments/assets/a95fae72-99a4-4658-a8dd-e30ea759905f" />
+<img width="1353" height="442" alt="image" src="https://github.com/user-attachments/assets/711887c8-573e-4098-a453-0bba7b28e242" />
 Рис. 6 Аппроксимация LSTM-сетью внешнего конутра
 
 Таблица 1 – Метрики качества аппроксимации внутреннего контура
