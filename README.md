@@ -78,7 +78,7 @@ J = \sum_{i=1}^{N} \big( y(t_i) - y_{\text{мод}}(t_i, \boldsymbol{\theta}) \b
 
 ### Линейная ARX-модель
 
-Согласно обобщающей работе [10], линейная ARX-модель (AutoRegressive with eXogenous input) описывается разностным уравнением:
+Линейная ARX-модель (AutoRegressive with eXogenous input) описывается разностным уравнением [10]:
 
 $$
 A(q) y(t) = B(q) u(t) + e(t),
